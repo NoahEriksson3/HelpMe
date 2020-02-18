@@ -1,2 +1,2 @@
-# Simulator
- A simulator for electronic circuits and more.
+# HelpMe
+ A game where you as a web developer will be tested to your maximum capacity.
